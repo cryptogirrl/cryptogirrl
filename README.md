@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cryptogirrl
+- 👀 I’m interested in fintech and crypto
+- 🌱 I’m currently learning javascript
